@@ -1,0 +1,1 @@
+// Registro.js placeholder

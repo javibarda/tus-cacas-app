@@ -1,0 +1,1 @@
+// AnalizadorCaca.jsx placeholder
